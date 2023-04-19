@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 LABEL maintainer="sameer@damagehead.com"
 
 ENV SQUID_VERSION=3.5.27 \
